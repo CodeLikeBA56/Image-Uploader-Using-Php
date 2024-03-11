@@ -4,13 +4,13 @@ This is a simple web project that allows users to upload images to a database us
 
 ## Features
 
-- Image Upload:** Users can easily upload images through the web interface.
-- PHP Backend:** Utilizes PHP for server-side scripting and interacting with the database.
-- Database Storage:** Images are stored in a database, demonstrating basic database operations with PHP.
-- Simple Frontend:** A straightforward HTML and CSS frontend for user interaction.
+- Image Upload: Users can easily upload images through the web interface.
+- PHP Backend: Utilizes PHP for server-side scripting and interacting with the database.
+- Database Storage: Images are stored in a database, demonstrating basic database operations with PHP.
+- Simple Frontend: A straightforward HTML and CSS frontend for user interaction.
 
 ## Getting Started
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/your-username/php-image-uploader.git
+   git clone https://github.com/CodeLikeBA56/Image-Uploader-Using-Php.git
    cd Image-Uploader-Using-Php
